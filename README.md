@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kapil.srivastava7799@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KTOS6mMf3k34125V7ULK9653eQ-0emMT/view?usp=share_link](https://drive.google.com/file/d/1KTOS6mMf3k34125V7ULK9653eQ-0emMT/view?usp=share_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
