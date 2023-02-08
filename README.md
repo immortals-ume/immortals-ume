@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **aws**
 
-- 💬 Ask me about **React , Java , Spring boot , Spring Batch , Redux , Design Patterns , SOLID principles **
+- 💬 Ask me about **React , Java , Spring boot , Spring Batch , Redux , Design Patterns , SOLID principles**
 
 - 📫 How to reach me **kapil.srivastava7799@gmail.com**
 
