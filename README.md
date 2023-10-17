@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning aws<br>Ask me about React , Java , Spring boot , Spring Batch ,<br>  Redux , Design Patterns , SOLID principles<br>How to reach me kapil.srivastava7799@gmail.com
+I’m currently learning AWS <br>Ask me about React, Java , Spring boot, Spring Batch,<br>  Redux, Design Patterns, SOLID principles <br>How to reach me kapil.srivastava7799@gmail.com
 
 
 ## 🌐 Socials:
