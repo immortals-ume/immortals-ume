@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DSA, Java, React, Devops**
 
-- 📫 How to reach me **srivastavakapil34@gmail.com**
+- 📫 How to reach me use linkedin link below 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
